@@ -1,7 +1,7 @@
 """
 : ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+    + Discord: Ling Neisan
+    + Community: https://discord.gg/VMbqMG7nUq (Hololive Development)
     + for any queries reach out Community or DM me.
 """
 
@@ -12,7 +12,7 @@ from datetime import datetime
 
 try:
     import pytz
-    _tz = pytz.timezone("Asia/Kolkata")
+    _tz = pytz.timezone("Asia/Jakarta")
 except Exception:
     _tz = None
 
