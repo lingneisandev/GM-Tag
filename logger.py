@@ -113,8 +113,8 @@ class _Logger:
             white ("  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝"),
             "",
             dim   ("  ─────────────────────────────────────────────────"),
-            f"  {green('●')} {white('GuildTag Bot')}   {dim('|')}   {white('discord.gg/aerox')}",
-            f"  {green('●')} {white('Developer')}      {dim('|')}   {white('itsfizys · AeroX Development')}",
+            f"  {green('●')} {white('GM GuildTag Bot')}   {dim('|')}   {white('discord.gg/VMbqMG7nUq')}",
+            f"  {green('●')} {white('Developer')}      {dim('|')}   {white('Ling Neisan · Hololive Developer X GM Developer')}",
             dim   ("  ─────────────────────────────────────────────────"),
             "",
         ]
