@@ -1,7 +1,7 @@
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+: ! Ling !
+    + Discord: lingneisan
+    + Community: https://discord.gg/VMbqMG7nUq (Hololive Development )
     + for any queries reach out Community or DM me.
 """
 
@@ -603,8 +603,8 @@ class GuildTag(commands.Cog):
         await self.on_user_update(before._user, after._user)
 
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+: ! Ling !
+    + Discord: lingneisan
+    + Community: https://discord.gg/VMbqMG7nUq (Hololive Development )
     + for any queries reach out Community or DM me.
 """
