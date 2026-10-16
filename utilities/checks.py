@@ -1,7 +1,7 @@
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+: ! Ling !
+    + Discord: lingneisan
+    + Community: https://discord.gg/VMbqMG7nUq (Hololive Development )
     + for any queries reach out Community or DM me.
 """
 
@@ -35,8 +35,8 @@ async def role_priv(ctx, role: discord.Role):
     return None
 
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+: ! Ling !
+    + Discord: lingneisan
+    + Community: https://discord.gg/VMbqMG7nUq (Hololive Development )
     + for any queries reach out Community or DM me.
 """
