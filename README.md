@@ -211,7 +211,7 @@ Example:
 
 ## Bot Mention
 
-Mentioning the bot with no other content (`@AeroX Logger`) will trigger a welcome response showing the bot name, a greeting, the server prefix, and a link to the support server.
+Mentioning the bot with no other content (`@Bot Your Mention`) will trigger a welcome response showing the bot name, a greeting, the server prefix, and a link to the support server.
 
 ---
 
