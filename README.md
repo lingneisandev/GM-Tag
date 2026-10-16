@@ -2,8 +2,8 @@
 
 A Discord bot built with **discord.py 2.7.1** that monitors guild/clan tags in member usernames and automatically assigns roles and sends messages when users adopt a server's tag. All responses use Discord's **Components V2** (containers, separators, text displays).
 
-**Developer:** itsfizys  
-**Support Server:** [AeroX Development](https://discord.gg/aerox)
+**Developer:** Ling Neisan  
+**Support Server:** [Hololive Development]( - )
 
 ---
 
