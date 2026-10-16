@@ -3,7 +3,7 @@
 A Discord bot built with **discord.py 2.7.1** that monitors guild/clan tags in member usernames and automatically assigns roles and sends messages when users adopt a server's tag. All responses use Discord's **Components V2** (containers, separators, text displays).
 
 **Developer:** Ling Neisan  
-**Support Server:** [Hololive Development]( - )
+**Support Server:** [Hololive Development]( https://discord.gg/VMbqMG7nUq )
 
 ---
 
@@ -240,4 +240,4 @@ The bot requires the following Discord permissions to function correctly:
 ## Support
 
 Join the support server for help, bug reports, and updates:  
-[discord.gg/aerox](https://discord.gg/aerox)
+[discord.gg/hololivedevz](https://discord.gg/VMbqMG7nUq)
